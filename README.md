@@ -9,7 +9,7 @@ A new Flutter project📱.
 - [Technologies and Tools](#id3)
 ---
 
-#### Introduction {#id1} 📝 
+#### Introduction {##id1} 📝 
 It's an app for watching movie trailers played by youtube within rate and ranking from IMDb 🎬.
 
 ---
@@ -22,6 +22,8 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 #### Technologies 🧑🏽‍💻
 - Dart
 - C++
+- REST API's
+- JSON
 
 ---
 
