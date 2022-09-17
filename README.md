@@ -22,3 +22,7 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 #### Technologies 🧑🏽‍💻
 - Dart
 - C++
+
+---
+
+#### Samples 🪄
