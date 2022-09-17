@@ -9,11 +9,7 @@ A new Flutter project📱.
 - [Technologies and Tools](#id3)
 ---
 
-<<<<<<< HEAD
-#### Introduction 📝 {#id1}
-=======
-#### Introduction {##id1} 📝 
->>>>>>> 423eba6fe6870be17e4cb6cf9bfe219d70a92ace
+#### Introduction 📝
 It's an app for watching movie trailers played by youtube within rate and ranking from IMDb 🎬.
 
 ---
