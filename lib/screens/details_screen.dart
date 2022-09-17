@@ -90,7 +90,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
             children: [
               SizedBox(height: Dimensions.height15),
               Container(
-                height: Dimensions.movieView * 1.4,
+                height: Dimensions.movieView * 1.41,
                 width: double.infinity,
                 margin: EdgeInsets.all(Dimensions.width20),
                 decoration: BoxDecoration(
