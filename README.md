@@ -1,16 +1,24 @@
-# movies_app
+# Movies_App
 
-A new Flutter project.
+A new Flutter project📱.
 
-## Getting Started
+#### RoadMap 🚸
+---
+- [Introduction](#id1)
+- [Key Features](#id2)
+- [Technologies and Tools](#id3)
+---
 
-This project is a starting point for a Flutter application.
+#### Introduction 📝 {#id1}
+It's an app for watching movie trailers played by youtube within rate and ranking from IMDb 🎬.
 
-A few resources to get you started if this is your first Flutter project:
+---
+#### Key Features 🔮 {#id2}
+- You can play the movie trailer on the App or YouTube or on the website ⏯.
+- You can search any movie you want by its name 🔍.
+- You can find all Top rated movies and the most viewed or trendy moview 🌟.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+#### Technologies 🧑🏽‍💻 {#id3}
+- Dart
+- C++
