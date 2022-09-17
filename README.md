@@ -26,8 +26,8 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 ---
 
 #### Samples 🪄
-![home](https://user-images.githubusercontent.com/111665714/190864610-e4046b53-8a91-44ca-bbbe-95bab5656a0d.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 11 33](https://user-images.githubusercontent.com/111665714/190864621-36826cbc-4f90-4078-89ce-adcdc540ad6a.png | width=100)
+![home](https://user-images.githubusercontent.com/111665714/190864610-e4046b53-8a91-44ca-bbbe-95bab5656a0d.png =250x250)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 11 33](https://user-images.githubusercontent.com/111665714/190864621-36826cbc-4f90-4078-89ce-adcdc540ad6a.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 13 20](https://user-images.githubusercontent.com/111665714/190864624-a53651f9-cce6-4f3e-af24-f0ac1fa7ed03.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 15 16](https://user-images.githubusercontent.com/111665714/190864626-df47700f-80e6-4656-b268-0fd10736a2e9.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 16 44](https://user-images.githubusercontent.com/111665714/190864633-0f540a7e-81a1-4b70-90e3-f84d4652be5e.png)
