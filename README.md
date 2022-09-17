@@ -26,8 +26,10 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 ---
 
 #### Samples 🪄
-![home](https://user-images.githubusercontent.com/111665714/190864610-e4046b53-8a91-44ca-bbbe-95bab5656a0d.png =250x250)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 11 33](https://user-images.githubusercontent.com/111665714/190864621-36826cbc-4f90-4078-89ce-adcdc540ad6a.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 13 20](https://user-images.githubusercontent.com/111665714/190864624-a53651f9-cce6-4f3e-af24-f0ac1fa7ed03.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 15 16](https://user-images.githubusercontent.com/111665714/190864626-df47700f-80e6-4656-b268-0fd10736a2e9.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-09-17 at 17 16 44](https://user-images.githubusercontent.com/111665714/190864633-0f540a7e-81a1-4b70-90e3-f84d4652be5e.png)
+<img width="300" alt="home" src="https://user-images.githubusercontent.com/111665714/190865913-6a155908-ccf2-43d2-99a5-6ba7891d28dc.png"> <img width="300" alt="search" src="https://user-images.githubusercontent.com/111665714/190865917-8534f63a-c425-4cb5-af81-324da1d66133.png">
+
+<img width="300" alt="dets" src="https://user-images.githubusercontent.com/111665714/190865908-59ceea3b-8821-48d7-84d7-fa459c649d18.png"> <img width="300" alt="web" src="https://user-images.githubusercontent.com/111665714/190866427-fbc27a54-fa0c-46fb-97d5-68290bf47f37.png">
+
+
+<img width="700" src="https://user-images.githubusercontent.com/111665714/190865922-22d77f1b-e06e-410e-a12a-11defd58ca7c.png">
+
