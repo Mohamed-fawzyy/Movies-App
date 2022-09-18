@@ -9,30 +9,17 @@ A new Flutter project📱.
 * [Technologies](https://github.com/Mohamed-fawzyy/Movies-App#Technologies "Named link title")
 * [Samples](https://github.com/Mohamed-fawzyy/Movies-App#Samples "Named link title")
 
-<<<<<<< HEAD
 #### Introduction
----
-=======
-#### Introduction 📝
->>>>>>> dd08526414dbfe1baf0ad33943ae3a6a66c562cd
 It's an app for watching movie trailers played by youtube within rate and ranking from IMDb 🎬.
 
 #### Key Features
 ---
-<<<<<<< HEAD
-=======
-#### Key Features 🔮
->>>>>>> dd08526414dbfe1baf0ad33943ae3a6a66c562cd
 - You can play the movie trailer on the App or YouTube or on the website ⏯.
 - You can search any movie you want by its name 🔍.
 - You can find all Top rated movies and the most viewed or trendy moview 🌟.
 
 #### Technologies
 ---
-<<<<<<< HEAD
-=======
-#### Technologies 🧑🏽‍💻
->>>>>>> dd08526414dbfe1baf0ad33943ae3a6a66c562cd
 - Dart
 - C++
 
