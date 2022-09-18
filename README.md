@@ -10,6 +10,7 @@ A new Flutter project📱.
 * [Samples](https://github.com/Mohamed-fawzyy/Movies-App#Samples "Named link title")
 
 #### Introduction
+---
 It's an app for watching movie trailers played by youtube within rate and ranking from IMDb 🎬.
 
 #### Key Features
