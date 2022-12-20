@@ -6,7 +6,6 @@ A new Flutter project📱.
 ---
 * [Introduction](https://github.com/Mohamed-fawzyy/Movies-App#Introduction "Named link title")
 * [Key Features](https://github.com/Mohamed-fawzyy/Movies-App#Key-Features "Named link title")
-* [Technologies](https://github.com/Mohamed-fawzyy/Movies-App#Technologies "Named link title")
 * [Samples](https://github.com/Mohamed-fawzyy/Movies-App#Samples "Named link title")
 
 #### Introduction
@@ -20,11 +19,6 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 - Providing youtube player and url_launcher for playing the trailer on the App or YouTube or on the website ⏯.
 - You can search any movie you want by its name 🔍.
 - You can find all Top rated movies and the most viewed or trendy moview 🌟.
-
-#### Technologies
----
-- Dart
-- C++
 
 #### Samples
 ---
