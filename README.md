@@ -15,7 +15,9 @@ It's an app for watching movie trailers played by youtube within rate and rankin
 
 #### Key Features
 ---
-- You can play the movie trailer on the App or YouTube or on the website ⏯.
+- Using GetX for high-performance state management.
+- Apply a HTTP request for handling REST API's
+- Providing youtube player and url_launcher for playing the trailer on the App or YouTube or on the website ⏯.
 - You can search any movie you want by its name 🔍.
 - You can find all Top rated movies and the most viewed or trendy moview 🌟.
 
